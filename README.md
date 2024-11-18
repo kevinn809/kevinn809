@@ -15,6 +15,9 @@
   <a href="https://www.workana.com/freelancer/cd87276a7b242849bd229eb8ad079586">
     <img src="https://img.shields.io/badge/Workana-KevinVillanueva-FF6A00?logo=workana&logoColor=white&style=flat" alt="Workana">
   </a>
+  <a href="mailto:kevinlautarovillanueva809@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kevinlautarovillanueva809%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail">
+</a>
 </div>
 
 ---
