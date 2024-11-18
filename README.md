@@ -1,6 +1,5 @@
 <h1 align="center">👨‍💻 Kevin - Backend Developer Jr.</h1>
 
-
 ---
 
 <div style="display: flex; gap: 10px;">
@@ -18,35 +17,34 @@
   </a>
 </div>
 
-
-
 ---
 
-¡Hola! Soy Kevin, un entusiasta de la tecnología con conocimientos en desarrollo web y informática. Actualmente estoy en mi último año de un colegio técnico y me estoy preparando para estudiar Ingeniería en Sistemas de Información en la UTN. Me apasiona aprender y aplicar tecnologías diversas en proyectos prácticos.
-## 🚀 ¿Qué hago?
+Hello! I'm Kevin, a technology enthusiast with knowledge in web development and IT. I'm currently in my final year at a technical school and preparing to study Systems Information Engineering at UTN. I'm passionate about learning and applying various technologies in practical projects.
 
-    Desarrollo Web: Conozco tecnologías como HTML, CSS, JavaScript.
-    Bases de datos: He hecho proyectos con MySQL y PHP.
-    POO: Conocmientos en tecnologias de programacion orientada a objetos.NET (C#)
-    Arduino: He trabajado en proyectos relacionados con la programación de microcontroladores y control de dispositivos.
-    Informática: Tengo experiencia en reparación de hardware, mantenimiento de sistemas y redes.
+## 🚀 What do I do?
 
-## 🧠 ¿Qué sé hacer?
+- **Web Development**: I know technologies like HTML, CSS, JavaScript.
+- **Databases**: I've done projects with MySQL and PHP.
+- **OOP**: Knowledge in object-oriented programming technologies (.NET, C#).
+- **Arduino**: I've worked on projects involving microcontroller programming and device control.
+- **IT**: I have experience in hardware repair, systems maintenance, and networking.
 
-    Desarrollo sitios web y aplicaciones con HTML, CSS, y JavaScript.
-    Trabajo con .NET (C#), PHP, y MySQL para crear soluciones simples en el ámbito backend.
-    Experiencia básica en programación con Arduino para proyectos de automatización.
-    Conocimientos avanzados en informática, reparación de dispositivos y redes.
+## 🧠 What can I do?
 
-## 📚 Formación académica:
+- I develop websites and applications with HTML, CSS, and JavaScript.
+- I work with .NET (C#), PHP, and MySQL to create simple backend solutions.
+- I have basic experience in Arduino programming for automation projects.
+- Advanced knowledge in IT, hardware repair, and networks.
 
-    Secundario Técnico Informático (último año)
-    Preparación para Ingeniería en Sistemas de Información (UTN - Módulo B).
+## 📚 Academic background:
 
-## 📂 Repositorios destacados:
-📁 stock-control-for-school
+- **Technical High School in IT** (final year)
+- Preparing for **Systems Information Engineering** at UTN (Module B).
 
-Un proyecto para gestionar inventarios en el ámbito escolar, utilizando mis conocimientos en programación y sistemas.
+## 📂 Featured repositories:
+📁 **stock-control-for-school**
 
-## ⚙️  GitHub Analytics
+A project to manage inventories in the school environment, applying my programming and systems knowledge.
+
+## ⚙️ GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinn809&show_icons=true&theme=radical)
