@@ -42,7 +42,7 @@ Hello! I'm Kevin, a technology enthusiast with knowledge in web development and 
 - Preparing for **Systems Information Engineering** at UTN (Module B).
 
 ## 📂 Featured repositories:
-📁 **stock-control-for-school**
+📁 [**stock-control-for-school**](https://github.com/kevinn809/stock-control-for-school)
 
 A project to manage inventories in the school environment, applying my programming and systems knowledge.
 
