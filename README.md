@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Instagram-@malokevin_-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/kevin-villanueva-040288291/">
-    <img src="https://img.shields.io/badge/LinkedIn-@KevinVillanueva-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-@kevinn809?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
   </a>
   <a href="https://discord.com/users/680188094376312863">
     <img src="https://img.shields.io/badge/Discord-!Mkevin-7289DA?logo=discord&logoColor=white&style=flat" alt="Discord">
