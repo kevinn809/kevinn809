@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Kevin - Junior Backend Developer</h1>
+<h1 align="center">👨‍💻 Kevin - Desarrollador Backend Jr.</h1>
 
 ---
 
@@ -22,33 +22,33 @@
 
 ---
 
-Hi! I'm Kevin, a tech enthusiast passionate about web development and IT. I'm in my final year of technical high school and preparing to study Systems Information Engineering at UTN. I enjoy learning new technologies and applying them to practical projects.
+¡Hola! Soy Kevin, un entusiasta de la tecnología con pasión por el desarrollo web y la informática. Actualmente estoy en mi último año de la escuela técnica y me estoy preparando para estudiar Ingeniería en Sistemas de Información en la UTN. Me gusta aprender nuevas tecnologías y aplicarlas en proyectos prácticos.
 
-## 🚀 What I do
+## 🚀 Lo que hago
 
-- **Web Development**: HTML, CSS, JavaScript.
-- **Databases & Backend**: MySQL, PHP.
-- **Object-Oriented Programming**: .NET (C#).
-- **Microcontrollers & Arduino**: Automation and device control projects.
-- **IT & Networking**: Hardware repair, system maintenance, and networking.
+- **Desarrollo Web**: HTML, CSS, JavaScript
+- **Bases de Datos y Backend**: MySQL, PHP
+- **Programación Orientada a Objetos**: .NET (C#)
+- **Microcontroladores y Arduino**: Proyectos de automatización y control de dispositivos
+- **Informática y Redes**: Reparación de hardware, mantenimiento de sistemas y redes
 
-## 🧠 Skills & Expertise
+## 🧠 Habilidades y Experiencia
 
-- Developing websites and web applications using HTML, CSS, and JavaScript.
-- Building simple backend solutions with .NET (C#), PHP, and MySQL.
-- Basic Arduino programming for automation projects.
-- Advanced IT knowledge: hardware repair, maintenance, and network configuration.
+- Desarrollo de sitios web y aplicaciones web usando HTML, CSS y JavaScript
+- Creación de soluciones backend simples con .NET (C#), PHP y MySQL
+- Experiencia básica en programación de Arduino para proyectos de automatización
+- Conocimientos avanzados en informática: reparación de hardware, mantenimiento de sistemas y configuración de redes
 
-## 📚 Education
+## 📚 Educación
 
-- **Technical High School in IT** (final year)
-- Preparing for **Systems Information Engineering** at UTN (Module B)
+- **Escuela Técnica en Informática** (último año)
+- Preparación para **Ingeniería en Sistemas de Información** en UTN (Módulo B)
 
-## 📂 Featured Repository
+## 📂 Repositorio Destacado
 
 📁 [**stock-control-for-school**](https://github.com/kevinn809/stock-control-for-school)  
-Inventory management system for school projects, showcasing my skills in programming and system design.
+Sistema de gestión de inventarios para proyectos escolares, mostrando mis habilidades en programación y diseño de sistemas.
 
-## ⚙️ GitHub Stats
+## ⚙️ Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinn809&show_icons=true&theme=radical)
