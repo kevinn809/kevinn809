@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Kevin - Backend Developer Jr.</h1>
+<h1 align="center">👨‍💻 Kevin - Junior Backend Developer</h1>
 
 ---
 
@@ -16,38 +16,39 @@
     <img src="https://img.shields.io/badge/Workana-KevinVillanueva-FF6A00?logo=workana&logoColor=white&style=flat" alt="Workana">
   </a>
   <a href="mailto:kevinlautarovillanueva809@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kevinlautarovillanueva809%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail">
-</a>
+    <img src="https://img.shields.io/badge/Gmail-kevinlautarovillanueva809%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail">
+  </a>
 </div>
 
 ---
 
-Hello! I'm Kevin, a technology enthusiast with knowledge in web development and IT. I'm currently in my final year at a technical school and preparing to study Systems Information Engineering at UTN. I'm passionate about learning and applying various technologies in practical projects.
+Hi! I'm Kevin, a tech enthusiast passionate about web development and IT. I'm in my final year of technical high school and preparing to study Systems Information Engineering at UTN. I enjoy learning new technologies and applying them to practical projects.
 
-## 🚀 What do I do?
+## 🚀 What I do
 
-- **Web Development**: I know technologies like HTML, CSS, JavaScript.
-- **Databases**: I've done projects with MySQL and PHP.
-- **OOP**: Knowledge in object-oriented programming technologies (.NET, C#).
-- **Arduino**: I've worked on projects involving microcontroller programming and device control.
-- **IT**: I have experience in hardware repair, systems maintenance, and networking.
+- **Web Development**: HTML, CSS, JavaScript.
+- **Databases & Backend**: MySQL, PHP.
+- **Object-Oriented Programming**: .NET (C#).
+- **Microcontrollers & Arduino**: Automation and device control projects.
+- **IT & Networking**: Hardware repair, system maintenance, and networking.
 
-## 🧠 What can I do?
+## 🧠 Skills & Expertise
 
-- I develop websites and applications with HTML, CSS, and JavaScript.
-- I work with .NET (C#), PHP, and MySQL to create simple backend solutions.
-- I have basic experience in Arduino programming for automation projects.
-- Advanced knowledge in IT, hardware repair, and networks.
+- Developing websites and web applications using HTML, CSS, and JavaScript.
+- Building simple backend solutions with .NET (C#), PHP, and MySQL.
+- Basic Arduino programming for automation projects.
+- Advanced IT knowledge: hardware repair, maintenance, and network configuration.
 
-## 📚 Academic background:
+## 📚 Education
 
 - **Technical High School in IT** (final year)
-- Preparing for **Systems Information Engineering** at UTN (Module B).
+- Preparing for **Systems Information Engineering** at UTN (Module B)
 
-## 📂 Featured repositories:
-📁 [**stock-control-for-school**](https://github.com/kevinn809/stock-control-for-school)
+## 📂 Featured Repository
 
-A project to manage inventories in the school environment, applying my programming and systems knowledge.
+📁 [**stock-control-for-school**](https://github.com/kevinn809/stock-control-for-school)  
+Inventory management system for school projects, showcasing my skills in programming and system design.
 
-## ⚙️ GitHub Analytics
+## ⚙️ GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinn809&show_icons=true&theme=radical)
