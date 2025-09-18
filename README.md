@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Kevin - Desarrollador Backend Jr.</h1>
+<h1 align="center">👨‍💻 Kevin - Desarrollador FullStack Jr.</h1>
 
 ---
 
@@ -22,27 +22,27 @@
 
 ---
 
-¡Hola! Soy Kevin, un entusiasta de la tecnología con pasión por el desarrollo web y la informática. Actualmente estoy en mi último año de la escuela técnica y me estoy preparando para estudiar Ingeniería en Sistemas de Información en la UTN. Me gusta aprender nuevas tecnologías y aplicarlas en proyectos prácticos.
+¡Hola! Soy Kevin, un apasionado de la tecnología y el desarrollo web. Me recibí como Técnico en Informática en 2024 y actualmente curso Ingeniería en Informática en la UNDAV. Me motiva aprender nuevas tecnologías y aplicarlas en proyectos prácticos y desafiantes.
 
 ## 🚀 Lo que hago
 
-- **Desarrollo Web**: HTML, CSS, JavaScript
-- **Bases de Datos y Backend**: MySQL, PHP
-- **Programación Orientada a Objetos**: .NET (C#)
-- **Microcontroladores y Arduino**: Proyectos de automatización y control de dispositivos
+- **Desarrollo Web**: HTML, CSS, JavaScript, PHP, Node.js, React, Angular, Vite, MongoDB  
+- **Bases de Datos y Backend**: MySQL, PHP, ASP.NET, Node.js  
+- **Programación Orientada a Objetos**: .NET, C#  
+- **Microcontroladores y Arduino**: Proyectos de automatización y control de dispositivos  
 - **Informática y Redes**: Reparación de hardware, mantenimiento de sistemas y redes
 
 ## 🧠 Habilidades y Experiencia
 
-- Desarrollo de sitios web y aplicaciones web usando HTML, CSS y JavaScript
-- Creación de soluciones backend simples con .NET (C#), PHP y MySQL
-- Experiencia básica en programación de Arduino para proyectos de automatización
+- Desarrollo de sitios web y aplicaciones web modernas usando HTML, CSS, JavaScript, React y Angular  
+- Creación de soluciones backend con PHP, Node.js, ASP.NET y MySQL  
+- Experiencia básica en programación de Arduino para proyectos de automatización  
 - Conocimientos avanzados en informática: reparación de hardware, mantenimiento de sistemas y configuración de redes
 
 ## 📚 Educación
 
-- **Escuela Técnica en Informática** (último año)
-- Preparación para **Ingeniería en Sistemas de Información** en UTN (Módulo B)
+- **Técnico en Informática** – Graduado en 2024  
+- **Ingeniería en Informática** en UNDAV – Actualmente cursando
 
 ## 📂 Repositorio Destacado
 
@@ -52,3 +52,4 @@ Sistema de gestión de inventarios para proyectos escolares, mostrando mis habil
 ## ⚙️ Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinn809&show_icons=true&theme=radical)
+
