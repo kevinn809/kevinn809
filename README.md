@@ -35,7 +35,7 @@
 ## 🧠 Habilidades y Experiencia
 
 - Desarrollo de sitios web y aplicaciones web modernas usando HTML, CSS, JavaScript, React y Angular  
-- Creación de soluciones backend con PHP, Node.js, ASP.NET y MySQL  
+- Creación de soluciones backend con PHP, Node.js y MySQL  
 - Experiencia básica en programación de Arduino para proyectos de automatización  
 - Conocimientos avanzados en informática: reparación de hardware, mantenimiento de sistemas y configuración de redes
 
@@ -44,12 +44,9 @@
 - **Técnico en Informática** – Graduado en 2024  
 - **Ingeniería en Informática** en UNDAV – Actualmente cursando
 
-## 📂 Repositorio Destacado
-
-📁 [**stock-control-for-school**](https://github.com/kevinn809/stock-control-for-school)  
-Sistema de gestión de inventarios para proyectos escolares, mostrando mis habilidades en programación y diseño de sistemas.
 
 ## ⚙️ Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinn809&show_icons=true&theme=radical)
+
 
